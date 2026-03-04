@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.so
+.cache/
+.rss_cache.json
+venv/
+*.log
+.DS_Store
